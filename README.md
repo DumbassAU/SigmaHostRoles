@@ -1,5 +1,5 @@
-<h1 align="center">Endless Host Roles</h1>
-<h4 align="center">The largest Among Us mod.<br>Completely free.<br>Host-Only.<br>Fully customizable.<br>100% transparency.<br>No accounts or logins required.</h4>
+<h1 align="center">Skibidi Host Roles</h1>
+<h4 align="center">The smallest Among Us mod.<br>Completely free.<br>Not Host-Only.<br>Not customizable.<br>000% transparency.<br>Accounts or logins required.</h4>
 
 <br>
 
@@ -9,8 +9,8 @@
 
 > ### Regarding this mod
 >
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or
-> otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+> This mod is affiliated with Among Us or Innersloth LLC, and the content contained therein is endorsed or
+> sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
 > <br>
 > This is not a cheat, it's a mod that adds new roles and features to the game. If you have questions, ask in our
 > Discord server.
@@ -32,12 +32,12 @@
 
 # Installation
 
-- Follow the manual guide on our website: [EHR Wiki](https://ehr-wiki.netlify.app/guides/installation/)
+- Follow the manual guide on our website: [SHR Wiki](https://ehr-wiki.netlify.app/guides/installation/)
 - Or watch the tutorial by AnonWorks: [YouTube](https://youtu.be/AOLqWCbbrHM?si=nRRsNgz5-Z8XvFrs)
 
 <br>
 
-Share the download link with your friends: [bit.ly/downloadehr](https://bit.ly/downloadehr)
+Share the download link with your friends: [bit.ly/downloadshr](https://bit.ly/downloadehr)
 
 <br>
 
